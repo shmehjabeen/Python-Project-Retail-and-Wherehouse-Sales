@@ -9,7 +9,7 @@ View Dashboard</a>
 
 
 
-  <https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf" />
+  <"https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf" />
 
 ## Project files
 
