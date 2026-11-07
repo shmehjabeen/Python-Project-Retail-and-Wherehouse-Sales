@@ -7,7 +7,7 @@ An exploratory analysis of 2020 retail and warehouse sales activity using Python
 ## Project files
 
 - `Retail_Sales_Data_Analysis.ipynb` — complete analysis notebook.
-- <a href="https://github.com/shmehjabeen/Executive-Sales-Analysis-Dashboard---Excel/blob/main/Excel%20Project.xlsx">Dataset</a> — source dataset (30,000 rows).
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.csv">Dataset</a> — source dataset (30,000 rows).
 - `Retail_Sales_Data_Analysis.xlsx` — generated workbook, created when the notebook is run.
 
 Place the CSV in the same folder as the notebook, or update `file_path` in the first code cell. The notebook currently uses a Google Colab path (`/content/Retail and wherehouse Sale.csv`).
