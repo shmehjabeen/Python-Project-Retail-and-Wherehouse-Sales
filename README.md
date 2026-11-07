@@ -3,7 +3,7 @@
 An exploratory analysis of 2020 retail and warehouse sales activity using Python, pandas, NumPy, Matplotlib, and Seaborn. The notebook covers data quality, channel and category performance, monthly patterns, SKU performance, transaction anomalies, and exports summary tables to Excel.
 
 View Dashboard</a>
-<img width="1206" height="613" alt="Retail and wherehouse Sale" src="![Retail and wherehouse Sale](https://github.com/user-attachments/assets/32c75f94-5d61-45eb-92d0-e9543eeeb296)
+<img width="1206" height="613" alt="Retail and wherehouse Sale" src="[Retail and wherehouse Sale](https://github.com/user-attachments/assets/32c75f94-5d61-45eb-92d0-e9543eeeb296)
 " />
 
 - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">View Python Project</a>
