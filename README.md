@@ -4,6 +4,8 @@ An exploratory analysis of 2020 retail and warehouse sales activity using Python
 
 <img width="1206" height="613" alt="Retail and wherehouse Sale" src="https://github.com/user-attachments/assets/097859ec-dc09-4ebd-a8e9-085bae9fea01" />
 
+- <a href="C:\Users\Mehjabeen Shaikh\Desktop\Mehjabeen\Personal\Mehjabeen Documents\Data Science - IIM Skills\3. Advanced Python\Project\Retail_Sales_Data_Analysis.pdf">View Dashboard</a>
+
 ## Project files
 
 - `Retail_Sales_Data_Analysis.ipynb` — complete analysis notebook.
