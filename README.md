@@ -9,7 +9,7 @@ View Dashboard</a>
 
 
 
-- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">View Python Project</a>
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf" />
 
 ## Project files
 
