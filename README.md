@@ -9,7 +9,7 @@ View Dashboard</a>
 
 
 
- <img width="1347" height="734" alt="Retail and wherehouse Sales" src="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf" />
+ - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.ipynb">View Python File</a>
 
 ## Project files
 
