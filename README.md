@@ -15,7 +15,7 @@ View Dashboard</a>
 
 - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.ipynb">Python Notebook</a> — complete analysis notebook.
 - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.csv">Dataset</a> — source dataset (30,000 rows).
-- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">Dataset</a> — generated workbook, created when the notebook is run.
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">Python Notebook PDF</a> — generated workbook, created when the notebook is run.
 
 Place the CSV in the same folder as the notebook, or update `file_path` in the first code cell. The notebook currently uses a Google Colab path (`/content/Retail and wherehouse Sale.csv`).
 
