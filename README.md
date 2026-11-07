@@ -1,7 +1,8 @@
 # Retail & Warehouse Sales Analysis
 
 - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.jpg">View Dashboard</a>
-<img width="1347" height="734" alt="ECOMMERCE SALES ANALYSIS DASHBOARD" src=""C:\Users\Mehjabeen Shaikh\Desktop\Mehjabeen\Personal\Mehjabeen Documents\Data Science - IIM Skills\3. Advanced Python\Project\Retail and wherehouse Sale.jpg"" />
+<img width="1347" height="734" alt="ECOMMERCE SALES ANALYSIS DASHBOARD" src="<img width="1206" height="613" alt="Retail and wherehouse Sale" src="https://github.com/user-attachments/assets/097859ec-dc09-4ebd-a8e9-085bae9fea01" />
+" />
 
 An exploratory analysis of 2020 retail and warehouse sales activity using Python, pandas, NumPy, Matplotlib, and Seaborn. The notebook covers data quality, channel and category performance, monthly patterns, SKU performance, transaction anomalies, and exports summary tables to Excel.
 
