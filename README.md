@@ -4,7 +4,7 @@ An exploratory analysis of 2020 retail and warehouse sales activity using Python
 
 <img width="1206" height="613" alt="Retail and wherehouse Sale" src="https://github.com/user-attachments/assets/097859ec-dc09-4ebd-a8e9-085bae9fea01" />
 
-- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">View Dashboard</a>
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.pdf">
 
 ## Project files
 
