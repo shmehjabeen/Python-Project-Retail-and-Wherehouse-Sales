@@ -9,7 +9,7 @@ View Dashboard</a>
 
 ## Project files
 
-- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.csv">Dataset</a> — complete analysis notebook.
+- <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail_Sales_Data_Analysis.ipynb">Dataset</a> — complete analysis notebook.
 - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.csv">Dataset</a> — source dataset (30,000 rows).
 - <a href="https://github.com/shmehjabeen/Python-Project-Retail-and-Wherehouse-Sales/blob/main/Retail%20and%20wherehouse%20Sale.csv">Dataset</a> — generated workbook, created when the notebook is run.
 
