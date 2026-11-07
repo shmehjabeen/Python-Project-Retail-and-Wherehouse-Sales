@@ -1,5 +1,7 @@
 # Retail & Warehouse Sales Analysis
 
+![Retail and Warehouse Sales Analysis project thumbnail](project-thumbnail.svg)
+
 An exploratory analysis of 2020 retail and warehouse sales activity using Python, pandas, NumPy, Matplotlib, and Seaborn. The notebook covers data quality, channel and category performance, monthly patterns, SKU performance, transaction anomalies, and exports summary tables to Excel.
 
 ## Project files
